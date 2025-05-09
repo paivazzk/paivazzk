@@ -1,0 +1,34 @@
+<img align="right" height=120 width=120 alt="Catpuccino gif"  src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" /> 
+                           
+<p align="center">
+  Hi,  im Vinicius Paiva another programmer.
+</p>
+
+<div align="center">
+  <a href="https://github.com/washonrails" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.instagram.com/paivazzk_?igsh=MzRzbGczNnY4MDBk" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href=https://www.linkedin.com/in/wallace-henrique-b67038203/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+ 
+  <br>
+  
+
+<div align="center">
+  
+</div>
+
+  
+<div align="center">
+<p align="center">
+  <img align="center" alt="Matheus-Cpp" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
+  <img align="center" alt="Matheus-C" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
+    <br>
+    <br>
+</p>  
+                                                                                                                                                      
+</div>
