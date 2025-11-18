@@ -27,9 +27,6 @@
   <img align="center" alt="Matheus-Cpp" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
   <img align="center" alt="Matheus-C" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-
-    <br>
-    <br>
 </p>  
                                                                                                                                                       
 </div>
