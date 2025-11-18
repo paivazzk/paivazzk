@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/washonrails" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
 <a href="https://www.instagram.com/paivazzk_?igsh=MzRzbGczNnY4MDBk" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
