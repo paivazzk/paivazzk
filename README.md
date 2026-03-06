@@ -10,7 +10,10 @@
 </a>
  <a href="https://github.com/washonrails" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
+</a>
+  <a href="https://www.instagram.com/paivazzk_/" target="_blank">
+<img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+  </a> 
   <br>
   
 
@@ -24,6 +27,8 @@
   <img align="center" alt="Matheus-Cpp" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
   <img align="center" alt="Matheus-C" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
+  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+
 </p>  
                                                                                                                                                       
 </div>
